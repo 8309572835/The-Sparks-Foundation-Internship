@@ -1,5 +1,5 @@
 # The-Sparks-Foundation-Internship
-Graduate Rotational Internship Program (GRIP)
+**Graduate Rotational Internship Program (GRIP)
 
 June 2023 Batch
 
@@ -23,7 +23,7 @@ Objective of the Task is to find out the weak areas where you can Work to Make M
 
 Task 6 : Prediction Using Decision Tree Algorithm
 
-Objective of the Task is to Create the Decision Tree Classifier and Visualize it Graphically.
+Objective of the Task is to Create the Decision Tree Classifier and Visualize it Graphically.**
 
 
 Task 7 : Stock Market Prediction

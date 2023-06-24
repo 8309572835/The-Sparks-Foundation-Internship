@@ -23,9 +23,9 @@ Objective of the Task is to find out the weak areas where you can Work to Make M
 
 Task 6 : Prediction Using Decision Tree Algorithm
 
-Objective of the Task is to Create the Decision Tree Classifier and Visualize it Graphically.**
+Objective of the Task is to Create the Decision Tree Classifier and Visualize it Graphically.
 
 
 Task 7 : Stock Market Prediction
 
-Objective of the Task is to Create a Hybrid Model for Stock Price/ Performance Prediction Using Numerical Analysis of Historical Stock Prices and Sentimantal Analysis of News Headlines.
+Objective of the Task is to Create a Hybrid Model for Stock Price/ Performance Prediction Using Numerical Analysis of Historical Stock Prices and Sentimantal Analysis of News Headlines.**
